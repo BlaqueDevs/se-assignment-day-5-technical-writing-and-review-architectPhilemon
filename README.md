@@ -25,6 +25,8 @@ Using plain language instead of technical jargon in writing is important because
 •Makes content more accessible, especially for those with limited technical knowledge.
 •Reduces the risk of miscommunication and errors.Enhances clarity and understanding for a wider audience.
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+Simplifying terms improves comprehension by making content easier to understand. For example:
+•
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
