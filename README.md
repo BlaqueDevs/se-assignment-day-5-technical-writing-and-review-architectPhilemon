@@ -20,6 +20,8 @@
 5:Create Glossaries: Provide definitions for technical terms to help readers understand specialized language.
 6:Use Plain Language: Avoid jargon and complex terms. Simplify your language to make the content more approachable.
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+Using plain language instead of technical jargon in writing is important because it:
+•
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
