@@ -44,5 +44,8 @@ Headings and subheadings improve the readability and organization of technical d
 •Be clear and concise: Use simple language that directly conveys the topic of the section.
 •Use a hierarchical structure: Organize headings and subheadings to reflect the document's structure (e.g., use H1 for main sections, H2 for subsections).
 •Be consistent: Maintain a consistent style and format throughout the document.
+•Avoid jargon: Use plain language to make the document accessible to a wider audience.
+•Use keywords: Incorporate relevant keywords to improve searchability.
+•Make them descriptive: Ensure headings and subheadings accurately describe the content that follows.
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
